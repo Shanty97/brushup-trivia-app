@@ -7,6 +7,9 @@ A web app to practice and test your general knowledge from various fields using 
   - Variety of questions
   - Add your own question bank and test people
 
+| Try it out | https://shanty97.github.io/brushup-trivia-app/ |
+| ------ | ------ |
+
 ![threescreens](https://github.com/Shanty97/brushup-trivia-app/blob/master/documentation/threeView.png?raw=true)
 
 ## What is used to build the web app ?
