@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "849f4ec04a72177a94ef081662a15ec0",
+    "revision": "a3b64f7a02441a7d40e40b6cfe9a1146",
     "url": "/brushup-trivia-app/index.html"
   },
   {
-    "revision": "c21d51a1ebfb9a0a03e6",
+    "revision": "36457e2d318dfa11712a",
     "url": "/brushup-trivia-app/static/css/main.6b655fe2.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/brushup-trivia-app/static/js/2.50692a58.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c21d51a1ebfb9a0a03e6",
-    "url": "/brushup-trivia-app/static/js/main.03166e7e.chunk.js"
+    "revision": "36457e2d318dfa11712a",
+    "url": "/brushup-trivia-app/static/js/main.700ef914.chunk.js"
   },
   {
     "revision": "7b950dde82f4e1c1ac4c",

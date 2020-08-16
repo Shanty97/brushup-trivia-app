@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/brushup-trivia-app/precache-manifest.9396741427e7ebf3fe8d37bafb4a2835.js"
+  "/brushup-trivia-app/precache-manifest.b88cad2e04fc91d934c6e5cb7b093d89.js"
 );
 
 self.addEventListener('message', (event) => {
