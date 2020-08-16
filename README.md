@@ -2,9 +2,9 @@
 
 A web app to practice and test your general knowledge from various fields using Flashcards. You can use it daily to keep up with the information of the fast moving world. It can be used as a mock platform for various kinds of objective question tests. And you can also use this as a question bank for your trivia themed contests. 
 
-  - Variety of fields
+  - Questions from variety of fields
   - Generation of almost 50 questions  at a single time
-  - Variety of questions
+  - Variety of questions with different difficulty levels at random
   - Add your own question bank and test people
 
 | Try it out | https://shanty97.github.io/brushup-trivia-app/ |
