@@ -7,12 +7,16 @@ A web app to practice and test your general knowledge from various fields using 
   - Variety of questions
   - Add your own question bank and test people
 
+![threescreens](https://github.com/Shanty97/brushup-trivia-app/blob/master/documentation/threeView.png?raw=true)
+
 ## What is used to build the web app ?
 
   - It is a React based application, making use of few libraries(packages) & apis for fetching data.
   - Major Libraries/Packages used :
     - Axios
     - react-top-loading-bar
+
+![twoscreens](https://github.com/Shanty97/brushup-trivia-app/blob/master/documentation/twoVIew.png?raw=true)
 
 ### References
 
