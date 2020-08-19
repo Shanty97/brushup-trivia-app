@@ -1,5 +1,7 @@
 # Brush-up
 
+![](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 A web app to practice and test your general knowledge from various fields using Flashcards. You can use it daily to keep up with the information of the fast moving world. It can be used as a mock platform for various kinds of objective question tests. And you can also use this as a question bank for your trivia themed contests. 
 
   - Questions from variety of fields.
